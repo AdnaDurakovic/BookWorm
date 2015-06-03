@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookWorm</string>
+
+    <string name="title_section1">Books</string>
+    <string name="title_section2">Add Book</string>
+    <string name="title_section3">To Read</string>
+    <string name="title_section4">Reading</string>
+    <string name="title_section5">Already Read</string>
+    <string name="title_section6">Scan ISBN</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
